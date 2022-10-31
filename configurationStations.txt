@@ -1,0 +1,4 @@
+sta|net|loc|channel|dataWS|eventWS|minMag
+
+CAS  PF 00 HH? 192.168.9.5          sc3.brgm.fr:8080 3
+GGLO QM 00 HH? 193.220.192.205:2080 sc3.brgm.fr:8080 3
